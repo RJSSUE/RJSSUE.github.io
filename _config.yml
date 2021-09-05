@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Jingshu Rui"
   avatar           : "avatar.jpg"
-  bio              : "Master student in Information Management & Systems"
+  bio              : "Master student in Information Management & Systems @ UC Berkeley"
   location         : "Berkeley, CA"
-  employer         : "School of Information, UC Berkeley"
+  employer         : "School of Information,\ UC Berkeley"
   pubmed           :
   googlescholar    : 
   email            : "jingshu_rui@berkeley.edu"
