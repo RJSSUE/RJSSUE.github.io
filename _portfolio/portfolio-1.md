@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Visualization for CSRankings (2020)"
+excerpt: "Use scatter points, bar, and pie chart to visualize data from csrankings.org <br/> <img src='/images/vis-1-1.png'> <br/> <img src='/images/vis-1-2.png'> <br/> <img src='/images/vis-1-3.png'>"
 collection: portfolio
 ---
 
