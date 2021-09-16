@@ -1,6 +1,6 @@
 ---
 title: "Visualization for CSRankings (2020)"
-excerpt: "<img src='/images/vis-1-1.png'> <br/><br/> <img src='/images/vis-1-2.png'> <br/><br/> <img src='/images/vis-1-3.png'> <br/><br/> <img src='/images/vis-2-1.gif'>"
+excerpt: "<img src='/images/vis-1-1.png' width='600'> <br/><br/> <img src='/images/vis-1-2.png' width='600'> <br/><br/> <img src='/images/vis-1-3.png' width='600'> <br/><br/> <img src='/images/vis-2-1.gif'>"
 collection: portfolio
 ---
 
