@@ -1,6 +1,6 @@
 ---
 title: "COVID-19 variants Visualization"
-excerpt: "<video width="600" controls autoplay> <source src="/images/vis-4-1.mp4" type="video/mp4"> </video>"
+excerpt: "<img src='/images/vis-3-1.gif'>"
 collection: portfolio
 ---
-This is proj 2
+This project used interactive world maps, line graphs and evolutionary trees to demonstrate the evolution and spread of new coronavirus variants over time. The data came from the GSIAID Initiative and GISRS Network projects.
