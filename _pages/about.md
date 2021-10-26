@@ -9,4 +9,4 @@ redirect_from:
 ---
 
 
-I’m a first-year Master of Information Management and Systems (MIMS) student at the School of Information, UC Berkeley. I graduated from the School of Electronics Engineering and Computer Science (EECS) at Peking University with a bachelor’s degree in Intelligence Science and Technology. I want to explore through MIMS topics like Computer Science, Human-Computer Interaction, Data Analysis, and Product Management.
+I’m a first-year Master of Information Management and Systems (MIMS) student at the School of Information, UC Berkeley. I graduated from the School of Electronics Engineering and Computer Science (EECS) at Peking University with a bachelor’s degree in Intelligence Science and Technology. I want to explore through MIMS topics like Machine Learning, Human-Computer Interaction, Data Analysis, and Product Management.
