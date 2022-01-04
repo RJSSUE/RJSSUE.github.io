@@ -10,3 +10,4 @@ redirect_from:
 
 
 I’m a first-year Master of Information Management and Systems (MIMS) student at the School of Information, UC Berkeley. I graduated from the School of Electronics Engineering and Computer Science (EECS) at Peking University with a bachelor’s degree in Intelligence Science and Technology.
+To know more about me, see [Blogs](https://rjssue.github.io/year-archive/)!

@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-My current CV could be found [here](http://rjssue.github.io/files/CV.pdf) (last updated on Sept 15, 2021).
+My current CV could be found [here](http://rjssue.github.io/files/CV.pdf) (last updated on Nov 20, 2021).
