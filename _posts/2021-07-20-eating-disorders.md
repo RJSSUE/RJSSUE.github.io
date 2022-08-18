@@ -1,9 +1,10 @@
 ---
-title: 'Bakery Apprentice'
-date: 2018-01-30
-permalink: /posts/2018/01/bakery-apprentice/
+title: 'Eating Disorder'
+date: 2021-07-20
+permalink: /posts/2021/07/eating-disorder/
 tags:
   - experience
+  - reflection
 ---
 
 This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
